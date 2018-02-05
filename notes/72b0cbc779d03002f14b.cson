@@ -1,0 +1,47 @@
+type: "MARKDOWN_NOTE"
+folder: "62058c8afdbf02b2736c"
+title: "Config Ubuntu"
+content: '''
+  # Config Ubuntu
+  
+  ## Ubuntu 
+  
+  - version 17.10
+  - Thème : Numix daily
+  - Gnome add-on :
+    - Alternativetab
+    - Freon
+    - Media player indicator
+    - Panel OSD
+  
+  
+  ## Software
+  
+  - Phpstorm
+  - Spotify
+  - Boostnote
+  - Franz
+  - Gitkraken
+  - Etcher
+  - Krita
+  - Guake
+  - VLC
+  - MailSpring
+  - Peek
+  - Stacer
+  - VS code
+  - Composer
+  - Docker
+  - VirtualBox
+  - Vagrant Manager
+  
+  
+  
+'''
+tags: [
+  "Config"
+  "Linux"
+]
+isStarred: false
+createdAt: "2018-02-03T12:38:54.150Z"
+updatedAt: "2018-02-05T19:02:19.669Z"
